@@ -36,7 +36,7 @@ $ npm install
 ブログ [Medium](https://medium.com/)  
 SNS [twitter](https://twitter.com/)  
 SNS [facebook](https://www.facebook.com/)  
-　　
+  
 設定ファイルはコミットしないようにminicaディレクトリ上で下記のコマンドを入力して下さい。
 ```
 $ git update-index --skip-worktree src/configs/firebase.js  
